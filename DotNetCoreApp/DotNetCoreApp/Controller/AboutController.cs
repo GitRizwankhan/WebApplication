@@ -6,6 +6,7 @@ namespace DotNetCoreApp.Controller
     {
         public IActionResult Index()
         {
+            string dd = "";
             return View();
         }
 
